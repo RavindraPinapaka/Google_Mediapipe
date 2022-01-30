@@ -1,5 +1,5 @@
-# mediapipe_face_hand_detector
-# this is a face and hand detector module written in python with opencv and google mediapipe
+# Mediapipe_face_hand_detector
+# This is a face and hand detector module, written in Python with opencv2 and google mediapipe
     """
     This is a class for Hand Detection and Face Detection           
 
