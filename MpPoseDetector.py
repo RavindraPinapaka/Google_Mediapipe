@@ -24,7 +24,7 @@ class PoseDetector:  # Class and Constructor
 
 
 def main():  # Main function creating
-    source = cv.VideoCapture(0)  # Read input
+    source = cv.VideoCapture(0)  # Read input, you can use video file as input instead of 0
     ptime = 0
     detector = PoseDetector()  # Object Creating
     while source.isOpened:
